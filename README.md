@@ -1,4 +1,4 @@
-# EternityIIPuzzle_V1_GreenDragon
+# Eternity II Puzzle V1 GreenDragon
 Eternity II Puzzle
 
 ## This is my atempt to find a solution for the puzzle game Eternity II Puzzle.
