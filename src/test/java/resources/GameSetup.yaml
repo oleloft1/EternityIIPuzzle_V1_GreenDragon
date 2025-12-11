@@ -1,0 +1,7 @@
+gameId: generate_id
+pieces: default
+pieceFollow: default
+useFixPieces:
+currentPuzzle:
+bestPuzzle:
+currentNoOfMoves:
